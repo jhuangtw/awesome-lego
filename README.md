@@ -24,3 +24,5 @@
 
 
 ### techniques
+- [building techniques (flickr stream)](https://www.flickr.com/photos/tylersky/galleries/72157643011806363/)
+- [LEGO tutorials (flickr stream)](https://www.flickr.com/photos/akunthita/galleries/72157639692173274/)
