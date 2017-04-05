@@ -6,6 +6,7 @@
 ### organic forms
 - [Mike Nieves / retinence](https://www.flickr.com/photos/retinence/)
 - [Vlad Lisin](https://www.flickr.com/photos/62087062@N07/with/13919167793/)
+- [Mitsuru Nikaido](https://www.flickr.com/photos/142497481@N02/)
 
 ### mech
 - [Aaron Williams, monkey stuff](https://www.flickr.com/photos/m_o_n_k_e_y_s_t_u_f_f/)
