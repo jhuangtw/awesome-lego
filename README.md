@@ -15,6 +15,7 @@
 - [moko](https://www.flickr.com/photos/legodoumoko/)
 - [simmon kim](https://www.flickr.com/photos/103614218@N03/with/30463115583/)
 - [camden M (tiny mechs)](https://www.flickr.com/photos/magusthemando/)
+- [kenny yan](https://www.flickr.com/photos/ks527527/)
 
 
 ### modulars
