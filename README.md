@@ -1,7 +1,10 @@
 # awesome-lego
 
-## general
+### general
 - [kosbrick](https://www.flickr.com/photos/kosmassantosa/)
+
+### figurines
+- [Eero Okkonen] https://www.flickr.com/photos/kumipallomaa/with/33750427876/
 
 ### cars
 - [Nikolay Gamurar](https://www.flickr.com/photos/132639540@N05/)
