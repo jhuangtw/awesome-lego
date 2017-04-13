@@ -5,7 +5,7 @@
 - [arvo brothers](https://www.flickr.com/photos/arvobrothers/)
 
 ### figurines
-- [Eero Okkonen] https://www.flickr.com/photos/kumipallomaa/with/33750427876/
+- [Eero Okkonen](https://www.flickr.com/photos/kumipallomaa/with/33750427876/)
 
 ### cars
 - [Nikolay Gamurar](https://www.flickr.com/photos/132639540@N05/)
