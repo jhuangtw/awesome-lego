@@ -3,6 +3,7 @@
 ### general
 - [kosbrick](https://www.flickr.com/photos/kosmassantosa/)
 - [arvo brothers](https://www.flickr.com/photos/arvobrothers/)
+- [Cecilie Fritzvold](https://www.flickr.com/photos/cecilihf/)
 
 ### figurines
 - [Eero Okkonen](https://www.flickr.com/photos/kumipallomaa/with/33750427876/)
