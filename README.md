@@ -27,6 +27,7 @@
 - [camden M (tiny mechs)](https://www.flickr.com/photos/magusthemando/)
 - [kenny yan](https://www.flickr.com/photos/ks527527/)
 - [Marco Marozzi](https://www.flickr.com/photos/127404146@N02/)
+- [Marius Herrmann](https://www.flickr.com/photos/velocites/)
 
 
 ### micro scale
