@@ -31,6 +31,7 @@
 
 ### micro scale
 - [Rod Gillies](https://www.flickr.com/photos/24681250@N07/with/33090063294/)
+- [yang wang](https://www.flickr.com/photos/148571549@N04/)
 
 ### modulars
 
