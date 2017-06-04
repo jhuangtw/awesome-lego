@@ -4,6 +4,7 @@
 - [kosbrick](https://www.flickr.com/photos/kosmassantosa/)
 - [arvo brothers](https://www.flickr.com/photos/arvobrothers/)
 - [Cecilie Fritzvold](https://www.flickr.com/photos/cecilihf/)
+- [james zhan](https://www.flickr.com/photos/pirate_cat/)
 
 ### figurines
 - [Eero Okkonen](https://www.flickr.com/photos/kumipallomaa/with/33750427876/)
