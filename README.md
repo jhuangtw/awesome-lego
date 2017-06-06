@@ -18,6 +18,7 @@
 - [Vlad Lisin](https://www.flickr.com/photos/62087062@N07/with/13919167793/)
 - [Mitsuru Nikaido](https://www.flickr.com/photos/142497481@N02/)
 - [Djokson](https://www.flickr.com/photos/djokson/with/33862539101/)
+- [takamichi irie](https://www.flickr.com/photos/legomichiiiiii/)
 
 ### mech
 - [Aaron Williams, monkey stuff, techniques](https://www.flickr.com/photos/m_o_n_k_e_y_s_t_u_f_f/)
