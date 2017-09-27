@@ -7,6 +7,7 @@
 - [james zhan](https://www.flickr.com/photos/pirate_cat/)
 - [lego7](https://www.flickr.com/photos/lego7/)
 - [Adeel Zubair](https://www.flickr.com/photos/adeelzubair/)
+- [nobu_tary](https://www.flickr.com/photos/127525305@N02/)
 
 ### figurines
 - [Eero Okkonen](https://www.flickr.com/photos/kumipallomaa/with/33750427876/)
