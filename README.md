@@ -1,3 +1,5 @@
+(list of [awesomes](https://github.com/sindresorhus/awesome))
+
 # awesome-lego
 
 ### general
