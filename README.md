@@ -6,6 +6,7 @@
 - [generating physically stable bricks structures from text (legoGPT)](https://avalovelace1.github.io/BrickGPT/)
 - [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
   - https://github.com/Relento/lego_release
+  - https://cs.stanford.edu/~rcwang/projects/ikea_manual/
 
 ### tools
 - http://www.studs.sariel.pl/
